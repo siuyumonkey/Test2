@@ -1,0 +1,19 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "test2",
+  "main": "Test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siuyumonkey/Test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siuyumonkey/Test2/issues"
+  },
+  "homepage": "https://github.com/siuyumonkey/Test2#readme"
+}
