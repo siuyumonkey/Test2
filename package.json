@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/siuyumonkey/Test2/issues"
   },
-  "homepage": "https://github.com/siuyumonkey/Test2#readme"
+  "homepage": "https://github.com/siuyumonkey/Test2#readme",
+  "dependencies": {
+    "ts-node": "^10.8.1"
+  }
 }
